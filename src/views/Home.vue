@@ -2,8 +2,8 @@
     <div id="align">
         <b-jumbotron id="fundo">
             <h1 class="text-uppercase">Task List</h1>
-            <p>Projeto do Assessment de VueJS por <a href="https://github.com/JorgeInfnet">Jorge Nascimento</a></p>
-            <p>Código do Projeto em meu repositório <a href="https://github.com/JorgeInfnet">https://github.com/JorgeInfnet</a></p>
+            <p>Projeto do Assessment de VueJS por <a href="https://github.com/JorgeInfnet/Task-List">Jorge Nascimento</a></p>
+            <p>Código do Projeto em meu repositório <a href="https://github.com/JorgeInfnet/Task-List">https://github.com/JorgeInfnet/Task-List</a></p>
         </b-jumbotron>
     </div>
 </template>
